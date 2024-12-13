@@ -2,6 +2,15 @@
 
 By Felix Soumpholphakdy
 
+## Slides
+
+https://docs.google.com/presentation/d/1Jhal0Mbp_6gJSEUTHel7wMlkscW8CWoYhodYivoU950/edit?usp=sharing
+
+## Controls
+
+Movement - Mouse
+Battlecry - Q
+
 ## Credits
 
 Mixamo - Characters and Animations
