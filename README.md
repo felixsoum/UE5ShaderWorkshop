@@ -9,6 +9,7 @@ https://docs.google.com/presentation/d/1Jhal0Mbp_6gJSEUTHel7wMlkscW8CWoYhodYivoU
 ## Controls
 
 Movement - Mouse
+
 Battlecry - Q
 
 ## Credits
